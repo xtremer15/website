@@ -5,4 +5,4 @@ save
 edit it on read me
 
 
-Updates on update-readme branch
+Deleted the update on github and update locally
